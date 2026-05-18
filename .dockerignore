@@ -1,0 +1,21 @@
+# Ignore git files
+.git
+.gitignore
+.github
+
+# Ignore documentation
+README.md
+LICENSE
+
+# Ignore IDE settings and local configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Ignore Docker files themselves
+Dockerfile
+.dockerignore
