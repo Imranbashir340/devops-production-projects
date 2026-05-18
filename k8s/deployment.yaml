@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: devops-prod-app
-          image: imranbashir340/devops-prod-app:IMAGE_TAG
+          image: imranbashir340/devops-prod-app:f64b232
           ports:
             - containerPort: 80
           resources:
